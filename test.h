@@ -6,3 +6,4 @@ now we need run : git status and git diff
 next we will run : git log
 
 git tracks changes of file!
+My boss still prefers SVN.
