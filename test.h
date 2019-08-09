@@ -7,3 +7,6 @@ next we will run : git log
 
 git tracks changes of file!
 My boss still prefers SVN.
+
+git checkout -b dev  == git branch dev & git checkout dev
+git branch
