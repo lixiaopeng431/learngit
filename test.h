@@ -17,8 +17,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 
-<<<<<<< HEAD
-dev is working!!!!!
-=======
-dev is working!!!!!
->>>>>>> dev
+dev is working!!!!! yea
